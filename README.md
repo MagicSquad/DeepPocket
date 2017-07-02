@@ -7,3 +7,5 @@ Our repository has 3 branches at the moment-
     2."secretary" branch :(name I chose) will contain duplicates for modifications. Try making changes in the present files, commiting them, and submitting them for review (submit pull request).
     3."readme-change" : same as 2.
                                                                                       -Vishal
+                                                                                      
+                                                                                       wtf!!
