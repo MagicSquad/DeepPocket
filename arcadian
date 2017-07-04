@@ -8,3 +8,4 @@ int getb(int l,int h,int i){
         return m;
     return geta(m+1,h,i);
 }
+upgrade 1.0
