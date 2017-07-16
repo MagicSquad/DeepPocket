@@ -6,6 +6,6 @@ int getb(int l,int h,int i){
         return geta(l,m-1,i);
     if(Z[m+1]>Y[i])
         return m;
-    return geta(m+1,h,i);
+    return geta(m+1,h+1,i);
 }
 upgrade 3.1 from psklr
